@@ -1,0 +1,17 @@
+# Qiskit and related packages - Updated May 2026
+qiskit==2.4.1
+qiskit-aer==0.17.2
+qiskit-algorithms==0.4.0
+qiskit-ibm-runtime==0.47.0
+
+# Qiskit application packages
+qiskit-optimization==0.7.0
+qiskit-machine-learning==0.9.0
+
+# Additional dependencies
+numpy>=1.24.0
+matplotlib>=3.7.0
+networkx>=3.0
+scipy>=1.10.0
+jupyter>=1.0.0
+notebook>=7.0.0
